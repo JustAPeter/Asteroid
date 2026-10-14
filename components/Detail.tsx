@@ -37,8 +37,7 @@ const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
       </div>
 
       <div className='flex shadow-detail'>
-        <Link className='mr-[1rem] mb-[7.5rem]' href="https://github.com/KorradoInganamorte"><img src="/images/github.svg" alt="github icon" /></Link>
-        <Link href="https://t.me/PS_Istomin"><img src="/images/telegram.svg" alt="telegam icon" /></Link>
+        <Link className='mr-[1rem] mb-[7.5rem]' href="https://github.com/JustAPeter"><img src="/images/github.svg" alt="github icon" /></Link>
       </div>
 
     </div>
