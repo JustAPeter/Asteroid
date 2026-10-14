@@ -9,7 +9,7 @@ const Header = () => {
             <img className={`w-[11.4rem] h-[10rem] mr-[1.5rem]`} src="/images/Logo.svg" alt="logo images" />
             <div>
                 <h1 className={`${montserratMedium.className} text-5xl max-h-[3.9rem]`}>Asteroid</h1>
-                <h2 className="text-3xl max-h-[2.9rem]">by Korrado Inganamorte</h2>
+                <h2 className="text-3xl max-h-[2.9rem]">by Peter</h2>
             </div>
         </div>
 
